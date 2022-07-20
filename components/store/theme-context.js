@@ -2,7 +2,7 @@ import { createContext, useState, useEffect } from 'react'
 import { useLocalStorage } from 'react-use'
 
 const ThemeContext = createContext({
-  theme: 'light',
+  theme: 'dark',
   toggleTheme: () => {}
 })
 
