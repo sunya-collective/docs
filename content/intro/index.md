@@ -1,6 +1,6 @@
 ---
 part: Introduction
-title: Welcome to NextBook!
+title: Welcome to Sunya!
 ---
 
 ![A screenshot of NexBook page. raw](https://next-book.vercel.app/screenshot.png)
@@ -38,18 +38,6 @@ This release contains major speed improvements and backwards **incompatible** ch
     - Indented code. This was removed from `MDX2`. Use other ways to define fenced code blocks.
     - Linking with angle brackets: This was removed from `MDX2`. Use other ways to define links.
 
-## What's New In NextBook 2.0?
-
-- Support for multiple books in one project.
-- Design based on [tailwindcss](https://tailwindcss.com/).
-- Markdown content is now being loaded with [next-mdx-remote](https://github.com/hashicorp/next-mdx-remote). This means content is now separated from routed pages.
-- Auto-centered layout on big resolutions leading to one less configuration option.
-- 40% smaller bundle size.
-- Navigation bar.
-- Updated dependencies.
-- Refined mobile UI.
-- Less code (−4,000 LOC).
-
 ## Primary Features 🧿
 
 - 💅 Good looking, simple and readable UI based on [tailwindcss](https://tailwindcss.com/) including `dark` mode and `auto-centered` layout,
@@ -58,7 +46,6 @@ This release contains major speed improvements and backwards **incompatible** ch
 - 🚀 Single page application with pre-fetching,
 - 🧾 Easy content creation with [markdown](https://www.markdownguide.org/) and [MDX](https://mdxjs.com/) support,
 - 💻 Something more than what basic fenced code offers. Like line highlighting, linking to source and copying to clipboard,
-- 🤓 Familiar [Git](https://github.com/) workflow and collaboration,
 - ⌨︎ Keyboard shortcuts for frequently used actions (theme change (T), page navigation (\<\>)),
 - 🔎 In-page optional table of contents with scroolspy,
 - © You own your data, **code is the data**. Committing to repository and seeing results in the simplest form,
