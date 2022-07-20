@@ -13,17 +13,8 @@ export default function HomePage() {
   return (
     <div className='mx-auto max-w-md'>
       <div className='text-center mt-32 text-3xl font-bold'>
-        Welcome To NextBook!
       </div>
       <div className='text-center'>
-        <p>You can use all Next.js features and create your custom app.</p>
-        <p>You can use this page as a homepage or to redirect to content.</p>
-        <p>
-          For now, redirecting you to the{' '}
-          <Link href={docsIndex}>
-            <a className='underline'>documentation</a>
-          </Link>
-        </p>
       </div>
     </div>
   )

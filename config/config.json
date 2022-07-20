@@ -1,5 +1,5 @@
 {
-  "projectTitle": "NextBook: Easy Docs With Markdown!",
+  "projectTitle": "sūnya documentation",
   "projectDescription": "NextBook is quick and easy way to buid technical books or documentation that support modern standards and run blazingly fast. It's built with MDX, Next.js and React and works by compiling markdown or MDX down to plain static html.",
   "projectURL": "https://next-book.vercel.app",
   "locale": "en",
@@ -25,53 +25,51 @@
       "path": "/intro"
     },
     {
-      "title": "NextBook Features",
-      "path": "/nextbook/nextbook-features"
+      "title": "Brands",
+      "path": "/brands"
     },
     {
-      "title": "Reference",
-      "path": "/reference/markdown"
+      "title": "Dev",
+      "path": "/dev"
     },
     {
       "title": "Github",
-      "path": "https://github.com/amiroff/NextBook"
+      "path": "https://github.com/sunya-collective/docs"
     }
   ],
   "toc": [
     {
-      "chapters": [{ "title": "Welcome to NextBook", "path": "/intro" }]
-    },
-    {
-      "part": "Using NextBook",
       "chapters": [
         {
-          "title": "NextBook Features",
-          "path": "/nextbook/nextbook-features"
-        },
-        {
-          "title": "Getting Started",
-          "path": "/nextbook/getting-started"
-        },
-        {
-          "title": "Settings",
-          "path": "/nextbook/settings"
-        },
-        {
-          "title": "Page Metadata",
-          "path": "/nextbook/page-metadata"
-        },
-        {
-          "title": "In Progress Features",
-          "path": "/nextbook/in-progress-features"
+          "title": "welcome to sūnya",
+          "path": "/intro"
         }
       ]
     },
     {
-      "part": "Reference",
+      "part": "for brands",
       "chapters": [
-        { "title": "Markdown Usage", "path": "/reference/markdown" },
-        { "title": "Fenced Code Usage", "path": "/reference/fencedcode" },
-        { "title": "Using MDX", "path": "/reference/using-mdx" }
+        {
+          "title": "Brand Config",
+          "path": "/brands"
+        }
+      ]
+    },
+    {
+      "part": "for developers",
+      "chapters": [
+        {
+          "title": "Markdown Usage",
+          "path": "/reference/markdown"
+        },
+        {
+          "title": "Fenced Code Usage",
+          "path": "/reference/fencedcode"
+        },
+        {
+          "title": "Using MDX",
+          "path": "/reference/using-mdx"
+        }
       ]
     }
   ]
