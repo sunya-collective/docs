@@ -26,7 +26,7 @@ If the `owner` theme is missing, the UX will fallback to using the inverses of t
 
 ### Sunya Default Config
 
-```json
+```json dark
 default: {
   logoSrc: "https://sunyacollective.com/brand/dark-logo.svg",
   colors: {

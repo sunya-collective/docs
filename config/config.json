@@ -59,16 +59,8 @@
       "part": "for developers",
       "chapters": [
         {
-          "title": "Markdown Usage",
-          "path": "/reference/markdown"
-        },
-        {
-          "title": "Fenced Code Usage",
-          "path": "/reference/fencedcode"
-        },
-        {
-          "title": "Using MDX",
-          "path": "/reference/using-mdx"
+          "title": "Authentication Logging",
+          "path": "/dev/authentication-logging"
         }
       ]
     }
